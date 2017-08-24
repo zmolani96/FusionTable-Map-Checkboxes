@@ -27,7 +27,7 @@ var MapsLib = {
 
   //MODIFY Google Fusion Tables API key. found at https://code.google.com/apis/console/
   //*Important* this key is for demonstration purposes. please register your own.
-  googleApiKey:       "AIzaSyBeSr899yyEXjbwfN_kvknnFwZv3G5kaEA",
+  googleApiKey:       "AIzaSyDkwRxdGSzJP4rXbWns0BOJpOrbXrC9oLY",
 
   //MODIFY name of the location column in your Fusion Table.
   //NOTE: if your location column name has spaces in it, surround it with single quotes
